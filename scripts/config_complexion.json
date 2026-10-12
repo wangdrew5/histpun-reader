@@ -1,0 +1,8 @@
+{
+  "images_folder": "/Users/build/Documents/Histpun/images_complexion",
+  "workbook_path": "/Users/build/Documents/Histpun/histpun reader/Convict records vol 17 no 6801-9900 1911-1916.xlsx",
+  "sheet_name": 0,
+  "crime_progress_file": "/Users/build/Documents/Histpun/histpun reader/progress.json",
+  "progress_file": "/Users/build/Documents/Histpun/histpun reader/progress_complexion.json",
+  "backup_dir": "/Users/build/Documents/Histpun/histpun reader/backups"
+}

@@ -1,0 +1,15 @@
+# Research data -- kept out of this public repo
+*.xlsx
+backups/
+progress.json
+progress_complexion.json
+*.tmp
+
+# Local environment and caches
+.venv/
+__pycache__/
+scripts/.resize_cache/
+
+# OS / Excel clutter
+.DS_Store
+~$*
